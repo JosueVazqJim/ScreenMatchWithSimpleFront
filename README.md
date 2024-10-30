@@ -4,10 +4,16 @@
 	<em><code>❯ This project is a web application built with Spring Boot for the backend and a basic frontend, designed to facilitate the search and display of movies stored in a database. The application provides users with an intuitive interface to explore a collection of movies, view detailed information.</code></em>
 </p>
 <p align="left">
-	<img src="https://img.shields.io/github/license/JosueVazqJim/ScreenMatch?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/JosueVazqJim/ScreenMatch?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/JosueVazqJim/ScreenMatch?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/JosueVazqJim/ScreenMatch?style=default&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/JosueVazqJim/ScreenMatchWithSimpleFront?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/JosueVazqJim/ScreenMatchWithSimpleFront?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/JosueVazqJim/ScreenMatchWithSimpleFront?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/JosueVazqJim/ScreenMatchWithSimpleFront?style=flat&color=0080ff" alt="repo-language-count">
+</p>
+<p align="left">Built with the tools and technologies:</p>
+<p align="left">
+	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
+	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="java">
 </p>
 <p align="left"><!-- default option, no dependency badges. -->
 </p>
